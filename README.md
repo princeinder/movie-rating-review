@@ -16,7 +16,7 @@
 
 `POST /api/user/signup`
 
-   curl -i -H 'Accept: application/json' -d 'username=testuser&email=testuser@gmail.com&password=inder123' http://localhost:5000/api/user/signup
+   curl -i -H 'Accept: application/json' -d 'username=testuser&email=testuser@gmail.com' http://localhost:5000/api/user/signup
 
 ### Response
 
